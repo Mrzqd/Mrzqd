@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_LINES_OF_CODE: "True"
+          LOCALE: "zh"
