@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-23-blue)
 
@@ -91,5 +91,5 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mrzqd/Mrzqd/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 13:01:00 UTC
+ Last Updated on 27/02/2023 16:49:01 UTC
 <!--END_SECTION:waka-->
