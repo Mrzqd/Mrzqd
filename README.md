@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-3-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -86,5 +86,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mrzqd/Mrzqd/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 04:37:53 UTC
+ Last Updated on 20/04/2023 08:37:57 UTC
 <!--END_SECTION:waka-->
