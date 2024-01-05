@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -58,16 +58,18 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Hong_Kong
 
 💬 编程语言: 
-本周没有记录到任何活动
+JavaScript               2 hrs 37 mins       ██████████████░░░░░░░░░░░   55.24 % 
+HTML                     1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+CSS                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+m.cn                     4 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Linux                    4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -87,5 +89,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mrzqd/Mrzqd/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2024 12:48:44 UTC
+ Last Updated on 05/01/2024 01:37:18 UTC
 <!--END_SECTION:waka-->
