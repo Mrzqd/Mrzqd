@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -58,17 +58,16 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Hong_Kong
 
 💬 编程语言: 
-JavaScript               1 hr 23 mins        ████████████████████████░   97.11 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-BncrData                 1 hr 26 mins        █████████████████████████   100.00 % 
+BncrData                 1 min               █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -88,5 +87,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mrzqd/Mrzqd/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 12:46:57 UTC
+ Last Updated on 20/02/2024 01:29:33 UTC
 <!--END_SECTION:waka-->
