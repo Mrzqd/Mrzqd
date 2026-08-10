@@ -79,11 +79,11 @@ No AI Coding Activity Tracked This Week
 **我最常使用 Python** 
 
 ```text
-Python                   17 repos            ██████████░░░░░░░░░░░░░░░   38.64 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   17 repos            ██████████░░░░░░░░░░░░░░░   39.53 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
@@ -93,5 +93,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mrzqd/Mrzqd/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 13:31:03 UTC
+ Last Updated on 10/08/2026 02:41:18 UTC
 <!--END_SECTION:waka-->
